@@ -37,7 +37,7 @@ const Control = () => {
   ));
 
   const [data, setData] = useState(chooseDataSet(selectedValues.dataset));
-  const [visLayer, setVisLayer] = useState(selectedValues.hiddenLayers.length);
+  const [visLayer, setVisLayer] = useState(model.layers.length - 2);
 
   useEffect(() => {
     const newModel = createModel(
