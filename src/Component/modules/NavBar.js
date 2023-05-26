@@ -10,7 +10,7 @@ const NavBar = () => {
   return (
     <>
       <nav className="NavBar-container">
-        <div className="NavBar-title">Toy Classification PlayGround</div>
+        <div className="NavBar-title">Intuitive Classification</div>
       </nav>
     </>
   )
