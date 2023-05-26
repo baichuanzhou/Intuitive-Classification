@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/intuitive-classification/static/css/main.172a65fd.css",
+    "main.js": "/intuitive-classification/static/js/main.ebba55d8.js",
+    "index.html": "/intuitive-classification/index.html",
+    "main.172a65fd.css.map": "/intuitive-classification/static/css/main.172a65fd.css.map",
+    "main.ebba55d8.js.map": "/intuitive-classification/static/js/main.ebba55d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172a65fd.css",
+    "static/js/main.ebba55d8.js"
+  ]
+}
