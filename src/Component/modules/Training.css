@@ -1,0 +1,17 @@
+.Visualizer-container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+
+.ModelParameter-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ActivationVis-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
