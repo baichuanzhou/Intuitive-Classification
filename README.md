@@ -1,15 +1,16 @@
 # A 2D Classification Project Using Neural Network
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [TensorFlow.js](https://www.tensorflow.org/js).
+This project is created with [Create React App](https://github.com/facebook/create-react-app) and [TensorFlow.js](https://www.tensorflow.org/js).
 
 ## Deploy project
 
-First `cd` to your directory and run: 
+First use `git clone https://github.com/baichuanzhou/Intuitive-Classification` \
+Then, `cd` to your directory and run: 
 
 ### `npm install`
 Installs the necessary dependency for the App.
 
-Then you can start the App in development mode:
+Then you can start the App in **development** mode:
 
 ### `npm start`
 Runs the app in the development mode.\
@@ -18,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-If you want to run the app for production, run:
+**If you want to run the app for production**, run:
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
