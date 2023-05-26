@@ -1,4 +1,5 @@
 # Intuitive Classification: 技术报告
+https://github.com/baichuanzhou/Intuitive-Classification
 ## 技术路线
 本项目使用了`React`, `TensorFlow.js` 以及`D3.js`，基于`Node.js`，利用`React`组件搭建整体应用框架，利用`TensorFlow.js`实现模型搭建和推理，最后使用`D3.js`实现模型可视化。\
 配合本项目中的`README.md`部署应用，建立相应的模块。
