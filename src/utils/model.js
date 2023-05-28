@@ -38,13 +38,13 @@ function createModel(learningRate, optimizer, normalization, initialization, act
         kernelInitializer: initialization,
         name: "fc" + i
       }));
-      // Normalization Layer
-      if (normalization === "Batch Norm") {
-        model.add(tf.layers.batchNormalization({ name: "BN" + i }));
-      } else if (normalization === "Layer Norm") {
-        model.add(tf.layers.layerNormalization({ name: "LN" + i }));
-      }
       if (i !== layers.length - 1) {
+        // Normalization Layer
+        if (normalization === "Batch Norm") {
+          model.add(tf.layers.batchNormalization({ name: "BN" + i }));
+        } else if (normalization === "Layer Norm") {
+          model.add(tf.layers.layerNormalization({ name: "LN" + i }));
+        }
         model.add(tf.layers.activation({ activation: activation, name: activation + i }));
       }
 
