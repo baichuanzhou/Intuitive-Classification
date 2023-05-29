@@ -19,9 +19,9 @@ const Control = () => {
       optimizer: "Momentum",
       normalization: "None",
       initialization: "heNormal",
-      activation: "relu",
+      activation: "tanh",
       loss: "categoricalCrossentropy",
-      dataset: "spiral",
+      dataset: "circle",
       hiddenLayers: [8],
     }
   )

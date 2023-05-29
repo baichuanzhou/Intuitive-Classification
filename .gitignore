@@ -23,7 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 tree.txt
-package.json
-package-lock.json
 webpack.config.cjs
 REPORT.md
+/img

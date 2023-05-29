@@ -2,6 +2,7 @@
     padding: var(--s) var(--m);
     background: rgb(15,41,61);
     background: linear-gradient(90deg, rgba(15,41,61,1) 0%, rgba(30,54,87,1) 24%, rgba(52,96,124,1) 100%);
+
 }
 
 .NavBar-title {
@@ -9,4 +10,16 @@
     font-size: 36px;
     font-family: "Times New Roman", "Open Sans", sans-serif;
     text-align: center;
+}
+
+.github-logo {
+    display: block;
+    position: absolute;
+    scale: 50%;
+    top: -20px;
+    right: -5px;
+}
+
+.github-logo:hover .bg{
+    fill-opacity: 0.3;
 }
