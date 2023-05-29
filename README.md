@@ -1,7 +1,7 @@
 # A 2D Classification Project Using Neural Network
 
-This project is created with [Create React App](https://github.com/facebook/create-react-app) and [TensorFlow.js](https://www.tensorflow.org/js).
-The project is now available at https://baichuanzhou.github.io/Intuitive-Classification/ 
+This project is created with [Create React App](https://github.com/facebook/create-react-app) and [TensorFlow.js](https://www.tensorflow.org/js).\
+The project is now available at https://baichuanzhou.github.io/Intuitive-Classification/.
 ## Deploy project
 
 First use `git clone https://github.com/baichuanzhou/Intuitive-Classification` \
