@@ -3,7 +3,7 @@
 ## About the project
 The project intends to visualize how inputs are transformed linearly and non-linearly by a deep neural network. Users can interactively change 
 the number of layers and neurons of the neural nets and their parameters. 
-[Show Demo](classification.png)
+![Show Demo](classification.png)
 
 This project is created with [Create React App](https://github.com/facebook/create-react-app) and [TensorFlow.js](https://www.tensorflow.org/js)
 and is now available at https://baichuanzhou.github.io/Intuitive-Classification/.
